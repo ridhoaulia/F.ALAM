@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ridho.fenomenaalam"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".OptionActivity"
+            android:label="@string/title_activity_option" >
+        </activity>
+        <activity
+            android:name=".FrontBanjirActivity"
+            android:label="@string/title_activity_front_banjir" >
+        </activity>
+        <activity
+            android:name=".CategoryBanjirActivity"
+            android:label="@string/title_activity_category_banjir" >
+        </activity>
+        <activity
+            android:name=".Banjir1Activity"
+            android:label="@string/title_activity_banjir1" >
+        </activity>
+        <activity
+            android:name=".Banjir2Activity"
+            android:label="@string/title_activity_banjir2" >
+        </activity>
+        <activity
+            android:name=".Banjir3Activity"
+            android:label="@string/title_activity_banjir3" >
+        </activity>
+        <activity
+            android:name=".FrontGempaActivity"
+            android:label="@string/title_activity_front_gempa" >
+        </activity>
+        <activity
+            android:name=".CategoryGempaActivity"
+            android:label="@string/title_activity_category_gempa" >
+        </activity>
+        <activity
+            android:name=".Gempa1Activity"
+            android:label="@string/title_activity_gempa1" >
+        </activity>
+        <activity
+            android:name=".Gempa2Activity"
+            android:label="@string/title_activity_gempa2" >
+        </activity>
+        <activity
+            android:name=".FrontTsunamiActivity"
+            android:label="@string/title_activity_front_tsunami" >
+        </activity>
+        <activity
+            android:name=".CategoryTsunamiActivity"
+            android:label="@string/title_activity_category_tsunami" >
+        </activity>
+        <activity
+            android:name=".Tsunami1Activity"
+            android:label="@string/title_activity_tsunami1" >
+        </activity>
+        <activity
+            android:name=".Tsunami2Activity"
+            android:label="@string/title_activity_tsunami2" >
+        </activity>
+        <activity
+            android:name=".FrontTornadoActivity"
+            android:label="@string/title_activity_front_tornado" >
+        </activity>
+        <activity
+            android:name=".CategoryTornadoActivity"
+            android:label="@string/title_activity_category_tornado" >
+        </activity>
+        <activity
+            android:name=".Tornado1Activity"
+            android:label="@string/title_activity_tornado1" >
+        </activity>
+        <activity
+            android:name=".Tornado2Activity"
+            android:label="@string/title_activity_tornado2" >
+        </activity>
+        <activity
+            android:name=".FrontActivityVolcano"
+            android:label="@string/title_activity_front_activity_volcano" >
+        </activity>
+        <activity
+            android:name=".FrontVolcanoActivity"
+            android:label="@string/title_activity_front_volcano" >
+        </activity>
+        <activity
+            android:name=".CategoryVolcanoActivity"
+            android:label="@string/title_activity_category_volcano" >
+        </activity>
+        <activity
+            android:name=".Volcano1Activity"
+            android:label="@string/title_activity_volcano1" >
+        </activity>
+        <activity
+            android:name=".Volcano2Activity"
+            android:label="@string/title_activity_volcano2" >
+        </activity>
+        <activity
+            android:name=".Volcano3Activity"
+            android:label="@string/title_activity_volcano3" >
+        </activity>
+        <activity
+            android:name=".FrontLandslideActivity"
+            android:label="@string/title_activity_front_landslide" >
+        </activity>
+        <activity
+            android:name=".CategoryLandslideActivity"
+            android:label="@string/title_activity_category_landslide" >
+        </activity>
+        <activity
+            android:name=".Landslide1Activity"
+            android:label="@string/title_activity_landslide1" >
+        </activity>
+        <activity
+            android:name=".Landslide2Activity"
+            android:label="@string/title_activity_landslide2" >
+        </activity>
+    </application>
+
+</manifest>

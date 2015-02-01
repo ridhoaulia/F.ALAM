@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fenomena Alam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_option">Fenomena Alam</string>
+    <string name="title_activity_front_banjir">Fenomena Banjir</string>
+    <string name="title_activity_category_banjir">Fenomena Alam</string>
+    <string name="title_activity_banjir1">Fenomena Alam</string>
+    <string name="title_activity_banjir2">Fenomena Alam</string>
+    <string name="title_activity_banjir3">Fenomena Alam</string>
+    <string name="title_activity_front_gempa">Fenomena Alam</string>
+    <string name="title_activity_category_gempa">Fenomena Alam</string>
+    <string name="title_activity_gempa1">Fenomena Alam</string>
+    <string name="title_activity_gempa2">Fenomena Alam</string>
+    <string name="title_activity_front_tsunami">Fenomena Alam</string>
+    <string name="title_activity_category_tsunami">Fenomena Alam</string>
+    <string name="title_activity_tsunami1">Fenomena Alam</string>
+    <string name="title_activity_tsunami2">Fenomena Alam</string>
+    <string name="title_activity_front_tornado">Fenomena Alam</string>
+    <string name="title_activity_category_tornado">Fenomena Alam</string>
+    <string name="title_activity_tornado1">Fenomena Alam</string>
+    <string name="title_activity_tornado2">Fenomena Alam</string>
+    <string name="title_activity_front_activity_volcano">Fenomena Alam</string>
+    <string name="title_activity_front_volcano">Fenomena Alam</string>
+    <string name="title_activity_category_volcano">Fenomena Alam</string>
+    <string name="title_activity_volcano1">Fenomena Alam</string>
+    <string name="title_activity_volcano2">Fenomena Alam</string>
+    <string name="title_activity_volcano3">Fenomena Alam</string>
+    <string name="title_activity_front_landslide">Fenomena Alam</string>
+    <string name="title_activity_category_landslide">Fenomena Alam</string>
+    <string name="title_activity_landslide1">Fenomena Alam</string>
+    <string name="title_activity_landslide2">Fenomena Alam</string>
+
+</resources>
